@@ -1,0 +1,158 @@
+@media only screen and (max-width:340px) and (min-width:20px){
+	#maindiv{
+				
+
+		background:linear-gradient(to left ,black,wheat,black);
+
+		width: 340px;
+		text-align: center;
+				font-size: 35px;
+
+
+
+	}
+}
+
+@media only screen and (min-width:1310px) and (max-width:1500px){
+	#maindiv{
+				
+
+		background-color:yellow;
+		width: 1480px;
+
+		text-align: center;
+
+/*		padding-left: 500px;*/
+		font-size: 60px;
+/*position: fixed;*/
+
+	}
+}
+
+
+@media only screen and (min-width:340px) and (max-width:1300px){
+	#maindiv{
+				
+	background:linear-gradient(to left ,black,wheat,black);
+
+		width: 1263px;
+/*		padding-left: 400px;*/
+/*		padding-top: 250px;*/
+text-align: center;
+		font-size: 50px;
+/*position: fixed;*/
+	}
+}
+
+
+@media only screen and (min-width:100px) and (max-width:340px){
+	#menu{
+		height: 200px;
+		width: 340px;
+		background-color: black;
+		margin-bottom: 100px;
+
+
+	}
+	.meli{
+height: 50px;
+width: auto;
+border: 1px solid white;
+/*padding-left:90px;*/
+	}
+
+	a{
+		text-decoration: none ;
+		color: white;
+		font-family: cabliber;
+		text-shadow: none;
+		font-size: 30px;
+
+	}
+	
+}
+
+
+
+@media only screen and (min-width:340px) and (max-width:1300px){
+	#menu{
+		height: 70px;
+				background:linear-gradient(to left ,black,black);
+
+		width: 1265px;
+		margin-bottom: 200px;
+/*		margin-right: 00px;*/
+
+
+	}
+	.meli{
+height: 70px;
+width:315px ;
+
+float: left;
+	}
+
+	a{
+		text-decoration: none ;
+		text-shadow: none;
+		color: white;
+		font-family: cabliber;
+		font-size: 30px;
+
+	}
+	a:hover{
+		font-size: 35px;
+	}
+}
+
+
+
+@media only screen and (min-width:1310px) and (max-width:1500px){
+	#menu{
+		height: 70px;
+		background-color: blue;
+		width: 1480px;
+		margin-bottom: 200px;
+/*		margin-right: 00px;*/
+
+
+	}
+	.meli{
+height: 70px;
+width:360px ;
+
+/*padding-left: 80px;*/
+float: left;
+	}
+
+	a{
+		text-decoration: none ;
+		color: white;
+		text-shadow: none;
+
+		font-family: cabliber;
+		font-size: 50px;
+
+	}
+	a:hover{
+		font-size: 40px;
+	}
+}
+
+
+
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+#maindiv{
+/*	font-size: 50px;*/
+	height: 600px;
+/*	width: auto;*/
+/*	background-color: whitesmoke;*/
+	color:black,;
+	font-family: algerian;
+text-shadow: 2px 2px 3px white,5px 5px 2px gray,6px 6px 2px silver;
+
+}

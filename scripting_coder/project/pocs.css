@@ -1,0 +1,231 @@
+@media only screen and (max-width:340px) and (min-width:20px){
+	#maindiv{
+				
+
+		background:linear-gradient(to right,black,gold,black);
+		width: 340px;
+		text-align: center;
+				font-size: 35px;
+
+
+
+	}
+	.prdi{
+	height: 120px;
+	width: 340px;
+	background:linear-gradient(to right,gold,white,white);
+	border-radius: 6px;
+	box-shadow: 2px 2px 5px black;
+	margin-bottom: 10px;
+/*	margin-left:150px;*/
+	font-family: caliber;
+	font-size:16px;
+	text-shadow:none;
+
+}
+button{
+	color:white; background:linear-gradient(to right,black,brown);text-shadow: none;height: 20px;border-radius: 5px;cursor: pointer;
+}
+
+#proli{
+	height: 1500px;
+		background:linear-gradient(to right,black,gold,black);
+	
+	width: auto;
+
+}
+}
+
+
+@media only screen and (min-width:1310px) and (max-width:1500px){
+	#maindiv{
+				
+
+		background:linear-gradient(to right,black,gold,black);
+		width: 1480px;
+
+		text-align: center;
+
+/*		padding-left: 500px;*/
+		font-size: 60px;
+/*position: fixed;*/
+
+	}
+
+
+	.prdi{
+	height: 150px;
+	width: 1000px;
+	background:linear-gradient(to right,gold,white,white);
+	border-radius: 6px;
+	box-shadow: 2px 2px 5px black;
+	margin-bottom: 10px;
+	margin-left:150px;
+	font-family: caliber;
+	font-size:25px;
+	text-shadow:none;
+
+}
+button{
+	color:white; background:linear-gradient(to right,black,brown);text-shadow: none;height: 30px;border-radius: 5px;cursor: pointer;
+}
+
+
+#proli{
+	height: 2000px;
+		background:linear-gradient(to right,black,gold,black);
+	
+	width: auto;
+
+}
+}
+
+
+@media only screen and (min-width:340px) and (max-width:1300px){
+	#maindiv{
+				
+
+		background:linear-gradient(to right,black,gold,black);
+		width: 1263px;
+/*		padding-left: 400px;*/
+/*		padding-top: 250px;*/
+text-align: center;
+		font-size: 50px;
+/*position: ;*/
+	}
+	.prdi{
+	height: 120px;
+	width: 1000px;
+	background:linear-gradient(to right,gold,white,white);
+	border-radius: 6px;
+	box-shadow: 2px 2px 5px black;
+	margin-bottom: 10px;
+	margin-left:150px;
+	font-family: caliber;
+	font-size:20px;
+	text-shadow:none;
+
+}
+#proli{
+	height: 2500px;
+		background:linear-gradient(to right,black,gold,black);
+
+	width: auto;
+
+}
+button{
+	color:white; background:linear-gradient(to right,black,brown);text-shadow: none;height: 30px;border-radius: 5px;cursor: pointer;
+}
+
+}
+
+
+@media only screen and (min-width:100px) and (max-width:340px){
+	#menu{
+		height: 200px;
+		width: 340px;
+		background-color: black;
+		margin-bottom: 100px;
+
+
+
+	}
+	.meli{
+height: 50px;
+width: auto;
+border: 1px solid white;
+/*padding-left:90px;*/
+	}
+
+	a{
+		text-decoration: none ;
+		color: white;
+		font-family: cabliber;
+		font-size: 30px;
+
+	}
+}
+
+
+
+@media only screen and (min-width:340px) and (max-width:1300px){
+	#menu{
+		height: 70px;
+		background-color: black	;
+		width: 1260px;
+		
+/*		margin-right: 00px;*/
+position: fixed;
+
+
+	}
+	.meli{
+height: 70px;
+width:315px ;
+
+float: left;
+	}
+
+	a{
+		text-decoration: none ;
+		color: white;
+		font-family: cabliber;
+		font-size: 30px;
+
+	}
+	a:hover{
+		font-size: 35px;
+	}
+}
+
+
+
+@media only screen and (min-width:1310px) and (max-width:1500px){
+	#menu{
+		height: 70px;
+		background-color: black;
+		width: 1480px;
+		
+/*		margin-right: 00px;*/
+position: fixed;
+
+
+
+	}
+	.meli{
+height: 70px;
+width:360px ;
+
+/*padding-left: 80px;*/
+float: left;
+	}
+
+	a{
+		text-decoration: none ;
+		color: white;
+		font-family: cabliber;
+		font-size: 50px;
+
+	}
+	a:hover{
+		font-size: 52px;
+	}
+}
+
+
+
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+#maindiv{
+/*	font-size: 50px;*/
+	height: 600px;
+/*	width: auto;*/
+/*	background-color: whitesmoke;*/
+	color:black;
+	font-family: algerian;
+text-shadow: 2px 2px 3px black;
+
+}
